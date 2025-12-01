@@ -24,7 +24,7 @@ simple rendering layer. This structure is production friendly and easy to test.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/api-dashboard.git
+git clone https://github.com/harshkumar1663/api-dashboard.git
 cd api-dashboard
 
 python -m venv .venv
